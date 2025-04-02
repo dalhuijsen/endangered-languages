@@ -8,10 +8,6 @@
 
 According to some estimates, half of the 7,000~ currently spoken languages are expected to become extinct this century. However, there is a lot of work by academics, independent scholars, organizations, communities, and individuals which goes towards stopping or slowing this trend. This list is intended to provide a list of open source code that would be useful for documenting, conserving, developing, preserving, or working with endangered languages.
 
-**Slack Group**
-
-We have a Slack group for live discussion. [Join Us Here](https://lowresourcelanguages.slack.com/join/shared_invite/MjIwNDk3ODQxNDU4LTE1MDE1OTM1NjYtMTJkNGMyNzRjMQ)!
-
 **Publication**
 
 A white paper describing this repository was published at the LREC 2016 CCURL Workshop (Collaboration and Computing for Under-Resourced Languages). The paper is in this repository, in the `papers` folder. Download the raw paper here: [Open Source Code Serving Endangered Languages](https://raw.githubusercontent.com/RichardLitt/low-resource-languages/master/paper/Open%20Source%20Code%20Serving%20Endangered%20Languages.pdf).
