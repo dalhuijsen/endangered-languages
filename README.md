@@ -9,8 +9,11 @@
 
 According to some estimates, half of the 7,000+ currently spoken languages are expected to become extinct this century. However, there is a lot of work by academics, independent scholars, organizations, communities, and individuals which goes towards stopping or slowing this trend. This list provides open source code and tools useful for documenting, conserving, developing, preserving, or working with endangered and low resource languages.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
+- [Definitions](#definitions)
 - [Generic](#generic)
 - [Annotation](#annotation)
 - [Audio](#audio)
@@ -30,6 +33,22 @@ According to some estimates, half of the 7,000+ currently spoken languages are e
 - [Language Specific Projects](#language-specific-projects)
 - [Credits](#credits)
 - [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Definitions
+
+**Endangered languages** are human languages that are in danger of extinction. This list also encompasses minority languages - languages which are spoken by a stable, but small, population (for example, Maltese or Hawai'ian); and low- or under-resourced languages, which may be spoken by a large population but are under-represented digitally (for instance, Quechua). These languages share certain characteristics in common; the most pertinent is sparse data and a lack of resources, ranging from spell-checkers to grammars to machine translation corpora. Other under-resourced languages that do not fall under this list include constructed languages (for instance, Klingon or Na'vi), computer languages (for instance, Javascript or Lua), and extinct languages that are so sparse as to be rendered computationally irrelevant for most purposes (for instance, Tocharian).
+
+**Open Source** "promotes a universal access via a free license to a product's design or blueprint, and universal redistribution of that design or blueprint, including subsequent improvements to it by anyone." ([Wiki](https://en.wikipedia.org/wiki/Open_source)). This is important because money and resources allocated towards a language or project that are not open source is spent at the expense of possible extensibility elsewhere.
+
+This list used to be named `endangered-languages`. It was renamed to reflect that endangerment is a loaded term that both may not reflect the views of language communities speaking minority languages. `low-resource-languages` focuses this list on a lack of digital resources compared to other, high resourced languages.
+
+Tools which are built for these languages are not included (unless relevant for dialects or variants): Arabic, Bulgarian, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, Flemish, French, German, Greek, Hebrew, Hungarian, Indonesian, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, Norwegian (Bokmål), Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, Ukrainian, Valencian, Vietnamese. This list comes from the list of most popular content languages for websites, [on this Wikipedia page](https://en.wikipedia.org/wiki/Languages_used_on_the_Internet). Other metrics could be used - if you have another one, please suggest it!
+
+This list is particularly good at one thing; showing the kinds of tools that exist in the field, generically. However, for in depth research into a specific language or tool suite, it does not perform exceptionally well. For instance, listing all of the [Firefox language packs](https://addons.mozilla.org/eu/firefox/language-tools/) or [Apertium language modules](https://github.com/apertium/apertium-languages) for each low resource language would be unhelpful, as would be including all of the tools available for Basque noted in the [ACL Wiki](https://aclweb.org/aclwiki/Resources_for_Basque), which would mainly mean cataloguing tools through the [IXA group](http://ixa.si.ehu.es/produktuak?language=en), some of which are open source, and some are not. Instead, view this list as a starting point for more research.
+
+Looking for resources for code languages? Take a look at [the awesome lists collection](https://github.com/sindresorhus/awesome).
 
 ## Generic
 
