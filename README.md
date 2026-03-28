@@ -288,16 +288,16 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [FoLiA: Format for Linguistic Annotation](https://proycon.github.io/folia/) - A rich XML-based annotation format, suitable for the representation of linguistically annotated language resources.
 * [CLAM](https://proycon.github.io/clam/) - Quickly and transparently transforms command-line NLP tools into RESTful webservices with an interface for human end-users.
 * [WebAnno](https://github.com/webanno/webanno) - Web-based annotation tool for a wide range of linguistic annotations including various layers of morphological, syntactical, and semantic annotations. Distributed under Apache 2.0.
-* [AGTK](https://github.com/lowresourcelanguages/agtk) - AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data, and other sequential data. An built on top of [Annotation Graph Toolkit](https://sourceforge.net/projects/agtk/) project.
+* [AGTK](https://github.com/lowresourcelanguages/agtk) - AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs. (Original project is on SourceForge: https://sourceforge.net/projects/agtk/).
 * [brendano/gfl_syntax](https://github.com/brendano/gfl_syntax) - Graph Fragment Language for Easy Syntactic Annotation. [Website](https://www.cs.cmu.edu/~ark/FUDG/).
 * [eopas](https://github.com/eopas/eopas) - ETHNOER Online Presentation and Annotation System.
-* [graf-python](https://github.com/cidles/graf-python) - The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in the ISO 24612 standard.
+* [graf-python](https://github.com/cidles/graf-python) - The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.
 * [kwaras](https://github.com/ucsd-field-lab/kwaras) - Tools for ELAN corpus management.
-* [LDC Word Aligner](https://github.com/RichardLitt/ldc-word-aligner) - LDC Word Aligner is a software tool used for manual annotation of word alignment of parallel text. [Website](https://www.ldc.upenn.edu/language-resources/tools/ldc-word-aligner).
-* [poio-analyzer](https://github.com/cidles/poio-analyzer) - Poio is a collection of software tools for linguists working in language documentation, descriptive linguistics, and typology.
-* [poio-api](https://github.com/cidles/poio-api) - Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow.
+* [LDC Word Aligner](https://github.com/RichardLitt/ldc-word-aligner) LDC Word Aligner is a software tool used for manual annotation of word alignment developed to support Arabic-English and Chinese-English word alignment tasks. It has a clean, easy-to-use interface. Since its development in 2009, LDC has used LDC Word Aligner to generate over 1,000,000 tokens of annotated word alignment data from a variety of genres including broadcast, newswire and web-based sources. [Website](https://www.ldc.upenn.edu/language-resources/tools/ldc-word-aligner).
+* [poio-analyzer](https://github.com/cidles/poio-analyzer) - Poio is a collection of software tools for linguists working in language documentation, descriptive linguistics and/or language typology. It allows linguists to manage and analyze their data. The Poio Interlinear Editor allows to add morpho-syntactic annotations to transcriptions. It supports various file formats for input, but will only output standardized XML defined by the Corpus Encoding Standard and the Text Encoding Initiative. Several tools for analyzing linguistic data will be made available to further process annotated data. Poio tools are written in Python and are based on PyQt.
+* [poio-api](https://github.com/cidles/poio-api) - Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F…
 * [pyannotation](https://github.com/cidles/pyannotation) - PyAnnotation is a Python Library to access and manipulate linguistically annotated corpus files.
-* [XTrans](https://www.ldc.upenn.edu/language-resources/tools/xtrans) - Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings.
+* [XTrans](https://www.ldc.upenn.edu/language-resources/tools/xtrans) Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics.
 
 ## Format Specifications
 
@@ -373,6 +373,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [LaTeX2HTML5](https://github.com/pyramation/LaTeX2HTML5) - LaTeX web components.
 * [MultilingualCorporaExtractor](https://github.com/FieldDB/MultilingualCorporaExtractor) - Node io Spider for extracting multilingual corpora (_Fork_ of a student project).
 * [SeedLing](https://github.com/FieldDB/SeedLing) - Building and Using A Seed Corpus for the Human Language Project (_Fork_ of a student project).
+* [L3XDG](https://github.com/LowResourceLanguages/hltdi-morphology) - Extensible Dependency Grammar (Debusmann, 2007) for translation.
 
 ## Experimentation
 
@@ -380,7 +381,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [OPrime](https://github.com/FieldDB/OPrime) - Open Source Experimentation Libraries - Online and Offline for Android and HTML5.
 * [psychopyMegProsody](https://github.com/FieldDB/psychopyMegProsody) - Runs MegProsody using PsychoPy.
 * [PsychScript](https://github.com/EoinTravers/PsychScript) - A HTML5/Javascript library for running behavioural experiments online.
-* [GamifyPsycholinguisticsExperiments](https://github.com/FieldDB/GamifyPsycholinguisticsExperiments) - A simple node server to gamify linguistics experiments, [use](https://volunteersfornaturallanguagescience.mybalsamiq.com/projects).
+* [GamifyPsycholinguisticsExperiments](https://github.com/FieldDB/GamifyPsycholinguisticsExperiments) - A simple node server to gamify linguistics experiments, runs offline on a laptop for small scale experiements and online on a server for large scale experiments. Data is sent to a Google spreadsheet. (_Fork_ of a dormant project).
 * [experigen](https://github.com/tlozoot/experigen) - A framework for creating linguistic experiments.
 
 ## Flashcards
@@ -668,7 +669,7 @@ _kat :: Kartuli / ქართული_
 
 _grn :: Guarani_
 
-* [HornMorpho](https://github.com/LowResourceLanguages/hltdi-morphology) - morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs.
+* [ParaMorfo](https://github.com/LowResourceLanguages/hltdi-morphology) - morphological analysis and generation of Spanish and Guarani verbs, nouns, and adjectives.
 
 ### Hausa
 
@@ -740,7 +741,7 @@ _lut :: Lushootseed_
 
 _msa :: Bahasa Melayu_
 
-* [HornMorpho](https://github.com/LowResourceLanguages/hltdi-morphology) - morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs.
+* [MorfoMelayu](https://github.com/LowResourceLanguages/hltdi-morphology) - morphological analysis of Malay words.
 
 ### Malagasy
 
@@ -785,7 +786,7 @@ _orm :: Oromo_
 
 _que :: Runa Simi_
 
-* [HornMorpho](https://github.com/LowResourceLanguages/hltdi-morphology) - morphological analysis and generation of Amharic and Oromo verbs and nouns and Tigrinya verbs.
+* [AntiMorfo](https://github.com/LowResourceLanguages/hltdi-morphology) - morphological analysis and generation of Quechua nouns, adjectives, and verbs and Spanish verbs.
 * [Morphology, spellchecker](https://pub.cl.uzh.ch/projects/squoia/normalizer.html) - XFST and FOMA, plus OpenOffice plugin.
 
 ### Sami
