@@ -21,6 +21,8 @@ There are more details on contributing in the [CONTRIBUTING](CONTRIBUTING.md) gu
 
 If you're interested in discussing the list in some offline capacity, get in touch with [@RichardLitt](https://github.com/RichardLitt). I'd be more than happy to have a phone call or email exchange.
 
+# Table of Contents
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
