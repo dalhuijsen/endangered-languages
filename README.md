@@ -9,9 +9,21 @@
 
 According to some estimates, half of the 7,000+ currently spoken languages are expected to become extinct this century. However, there is a lot of work by academics, independent scholars, organizations, communities, and individuals which goes towards stopping or slowing this trend. This list provides open source code and tools useful for documenting, conserving, developing, preserving, or working with endangered and low resource languages.
 
+**Publication**
+
+A white paper describing this repository was published at the LREC 2016 CCURL Workshop (Collaboration and Computing for Under-Resourced Languages). The paper is in this repository, in the `papers` folder. Download the raw paper here: [Open Source Code Serving Endangered Languages](https://raw.githubusercontent.com/RichardLitt/low-resource-languages/master/paper/Open%20Source%20Code%20Serving%20Endangered%20Languages.pdf).
+
+## Contribute
+
+To edit this list on GitHub, simply [click here](https://github.com/RichardLitt/low-resource-languages/edit/master/README.md). If you would like to discuss anything at all related to this, please [open an issue](https://github.com/RichardLitt/low-resource-languages/issues). If you know of any resource available that is not on this list, please add it, either using the link above or by submitting pull requests.
+
+There are more details on contributing in the [CONTRIBUTING](CONTRIBUTING.md) guide.
+
+If you're interested in discussing the list in some offline capacity, get in touch with [@RichardLitt](https://github.com/RichardLitt). I'd be more than happy to have a phone call or email exchange.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Contents
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Definitions](#definitions)
 - [Generic](#generic)
@@ -798,15 +810,6 @@ _urj :: Uralic languages_
 _zul :: Zulu_
 
 - [Ukwabelana](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus) - An open-source morphological Zulu corpus.
-
-## Credits
-
-This list is a merged and deduplicated version of two original lists, both created and maintained by [Richard Littauer](https://github.com/RichardLitt):
-
-- [endangered-languages](https://github.com/LowResourceLanguages/endangered-languages) - The original "Endangered Languages" list.
-- [low-resource-languages](https://github.com/RichardLitt/low-resource-languages) - The original "Low Resource Languages" list.
-
-A white paper describing this work was published at the LREC 2016 CCURL Workshop (Collaboration and Computing for Under-Resourced Languages): [Open Source Code Serving Endangered Languages](https://raw.githubusercontent.com/RichardLitt/low-resource-languages/master/paper/Open%20Source%20Code%20Serving%20Endangered%20Languages.pdf).
 
 ## License
 
