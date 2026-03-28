@@ -373,7 +373,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [LaTeX2HTML5](https://github.com/pyramation/LaTeX2HTML5) - LaTeX web components.
 * [MultilingualCorporaExtractor](https://github.com/FieldDB/MultilingualCorporaExtractor) - Node io Spider for extracting multilingual corpora (_Fork_ of a student project).
 * [SeedLing](https://github.com/FieldDB/SeedLing) - Building and Using A Seed Corpus for the Human Language Project (_Fork_ of a student project).
-* [L3XDG](https://github.com/LowResourceLanguages/hltdi-morphology) - Extensible Dependency Grammar (Debusmann, 2007) for translation.
+* [L3XDG](http://web.archive.org/web/20140703214405/http://code.google.com/p/hltdi-l3/) - Extensible Dependency Grammar (Debusmann, 2007) for translation.
 
 ## Experimentation
 
