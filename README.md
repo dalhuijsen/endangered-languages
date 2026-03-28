@@ -282,21 +282,21 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 ## Annotation
 
+* [AGTK](https://github.com/lowresourcelanguages/agtk) - AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs. (Original project is on SourceForge: https://sourceforge.net/projects/agtk/).
 * [Annotation page](http://annotation.exmaralda.org/index.php/Tools) - Ethnographic tools for annotation.
 * [brat](https://github.com/nlplab/brat) - brat rapid annotation tool (brat) for online text annotation.
+* [brendano/gfl_syntax](https://github.com/brendano/gfl_syntax) - Graph Fragment Language for Easy Syntactic Annotation. [Website](https://www.cs.cmu.edu/~ark/FUDG/).
+* [CLAM](https://proycon.github.io/clam/) - Quickly and transparently transforms command-line NLP tools into RESTful webservices with an interface for human end-users.
+* [eopas](https://github.com/eopas/eopas) - ETHNOER Online Presentation and Annotation System.
 * [FLAT - FoLia Linguistic Annotation Tool](https://github.com/proycon/flat) - FLAT is a web-based linguistic annotation environment based around the FoLiA format (http://proycon.github.io/folia/), a rich XML-based format for linguistic annotation. FLAT allows users to view annotated FoLiA documents and enrich these documents with new annotations, a wide variety of linguistic annotation types is supported through the FoLiA paradigm. It is a document-centric tool that fully preserves and visualises document structure.
 * [FoLiA: Format for Linguistic Annotation](https://proycon.github.io/folia/) - A rich XML-based annotation format, suitable for the representation of linguistically annotated language resources.
-* [CLAM](https://proycon.github.io/clam/) - Quickly and transparently transforms command-line NLP tools into RESTful webservices with an interface for human end-users.
-* [WebAnno](https://github.com/webanno/webanno) - Web-based annotation tool for a wide range of linguistic annotations including various layers of morphological, syntactical, and semantic annotations. Distributed under Apache 2.0.
-* [AGTK](https://github.com/lowresourcelanguages/agtk) - AGTK is a suite of software components for building tools for annotating linguistic signals, time-series data which documents any kind of linguistic behavior (e.g. audio, video). The internal data structures are based on annotation graphs. (Original project is on SourceForge: https://sourceforge.net/projects/agtk/).
-* [brendano/gfl_syntax](https://github.com/brendano/gfl_syntax) - Graph Fragment Language for Easy Syntactic Annotation. [Website](https://www.cs.cmu.edu/~ark/FUDG/).
-* [eopas](https://github.com/eopas/eopas) - ETHNOER Online Presentation and Annotation System.
 * [graf-python](https://github.com/cidles/graf-python) - The library graf-python is an open source Python implemenation to parse and write GrAF/XML files as described in ISO 24612. The parser of the library creates an annotation graph from the files. The user may then query the annotation graph via the API of graf-python.
 * [kwaras](https://github.com/ucsd-field-lab/kwaras) - Tools for ELAN corpus management.
 * [LDC Word Aligner](https://github.com/RichardLitt/ldc-word-aligner) LDC Word Aligner is a software tool used for manual annotation of word alignment developed to support Arabic-English and Chinese-English word alignment tasks. It has a clean, easy-to-use interface. Since its development in 2009, LDC has used LDC Word Aligner to generate over 1,000,000 tokens of annotated word alignment data from a variety of genres including broadcast, newswire and web-based sources. [Website](https://www.ldc.upenn.edu/language-resources/tools/ldc-word-aligner).
 * [poio-analyzer](https://github.com/cidles/poio-analyzer) - Poio is a collection of software tools for linguists working in language documentation, descriptive linguistics and/or language typology. It allows linguists to manage and analyze their data. The Poio Interlinear Editor allows to add morpho-syntactic annotations to transcriptions. It supports various file formats for input, but will only output standardized XML defined by the Corpus Encoding Standard and the Text Encoding Initiative. Several tools for analyzing linguistic data will be made available to further process annotated data. Poio tools are written in Python and are based on PyQt.
 * [poio-api](https://github.com/cidles/poio-api) - Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F…
 * [pyannotation](https://github.com/cidles/pyannotation) - PyAnnotation is a Python Library to access and manipulate linguistically annotated corpus files.
+* [WebAnno](https://github.com/webanno/webanno) - Web-based annotation tool for a wide range of linguistic annotations including various layers of morphological, syntactical, and semantic annotations. Distributed under Apache 2.0.
 * [XTrans](https://www.ldc.upenn.edu/language-resources/tools/xtrans) Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics.
 
 ## Format Specifications
@@ -313,18 +313,14 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 ## Audio automation
 
-* [Audacity](http://audacity.sourceforge.net/) - Free, open source, cross-platform software for recording and editing sounds.
-* [CMU Sphinx](https://cmusphinx.github.io/) - Open source toolkit for speech recognition. PocketSphinx, SphinxTrain, Sphinx4, and sphinxbase.
-* [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python.
-* [ELAN](https://web.archive.org/web/20200307094533/https://tla.mpi.nl/tools/tla-tools/elan/) ELAN is a professional tool for the creation of complex annotations on video and audio resources. **[archived]**
-* [Praat](http://www.fon.hum.uva.nl/praat/) - Praat: doing Phonetics by Computer.
-* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications.
-* [SoX](http://sox.sourceforge.net/) - SoX, the Swiss Army knife of sound processing programs.
-* [WaveSurfer](http://www.speech.kth.se/wavesurfer/) - An open source tool for sound visualization and manipulation.
 * [arctic-prompts](https://github.com/psibre/arctic-prompts) - Generate prompts PDF for CMU ARCTIC dataset.
+* [Audacity](http://audacity.sourceforge.net/) - Free, open source, cross-platform software for recording and editing sounds.
 * [AudioWebService](https://github.com/FieldDB/AudioWebService) - a simple nodejs server which accepts upload of audio and runs it through praat.
 * [AuToBI](https://github.com/AndrewRosenberg/AuToBI) - Automatic prosodic annotation tool written in Java.
 * [BashScriptsForPhonetics](https://github.com/FieldDB/BashScriptsForPhonetics) - (_Fork_ of a dormant project).
+* [CMU Sphinx](https://cmusphinx.github.io/) - Open source toolkit for speech recognition. PocketSphinx, SphinxTrain, Sphinx4, and sphinxbase.
+* [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition in Python.
+* [ELAN](https://web.archive.org/web/20200307094533/https://tla.mpi.nl/tools/tla-tools/elan/) ELAN is a professional tool for the creation of complex annotations on video and audio resources. **[archived]**
 * [esv-text-audio-aligner](https://github.com/westonruter/esv-text-audio-aligner) - ESV Text/Audio Aligner to programmatically obtain the timings for each word in the corresponding audio.
 * [html5-audio-read-along](https://github.com/westonruter/html5-audio-read-along) - HTML5 Audio Read-Along.
 * [ipa-chart](https://github.com/westonruter/ipa-chart) - International Phonetic Alphabet (IPA) Unicode Chart and Character Picker.
@@ -339,6 +335,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [pocketsphinx-ruby](https://github.com/cmusphinx/pocketsphinx-ruby) - Ruby speech recognition with Pocketsphinx.
 * [pocketsphinx-wp-demo](https://github.com/cmusphinx/pocketsphinx-wp-demo) - Demo to run pocketsphinx on WP8 platform.
 * [pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js) - Speech recognition in JavaScript.
+* [Praat](http://www.fon.hum.uva.nl/praat/) - Praat: doing Phonetics by Computer.
 * [praat-py](https://github.com/FieldDB/praat-py) - From my PhD days: Praat-Py is a custom build of Praat, the computer program used by linguists for doing phonetic analysis on sound files, to allow for scripts to be written in the Python programming language, rather than in Praat's built-in language. (_Fork_ of a dormant project).
 * [Praat-Scripts](https://github.com/FieldDB/Praat-Scripts) - Mietta's Scripts.
 * [PraatTextGridJS](https://github.com/FieldDB/PraatTextGridJS) - A small library which can parse TextGrid into json and json into TextGrid.
@@ -346,12 +343,15 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [prosodicParsing](https://github.com/jpate/prosodicParsing) - different kinds of HMMs to use for incorporating prosody into basic parsing.
 * [Prosodylab-Aligner](https://github.com/prosodylab/Prosodylab-Aligner) - Python interface for forced audio alignment using HTK and SoX.
 * [prosodylab.alignertools](https://github.com/prosodylab/prosodylab.alignertools)
+* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications.
 * [Recordmp3js](https://github.com/FieldDB/Recordmp3js) - Record MP3 files directly from the browser using JS and HTML.
 * [Recordmp3js](https://github.com/nicklarosa/Recordmp3js) - Record MP3 files directly from the browser using JS and HTML (original project).
+* [SoX](http://sox.sourceforge.net/) - SoX, the Swiss Army knife of sound processing programs.
 * [sphinx4](https://github.com/cmusphinx/sphinx4) - Pure Java speech recognition library.
 * [sphinxbase](https://github.com/cmusphinx/sphinxbase)
 * [sphinxtrain](https://github.com/cmusphinx/sphinxtrain)
 * [TLSphinx](https://github.com/cmusphinx/TLSphinx) - Swift wrapper around Pocketsphinx.
+* [WaveSurfer](http://www.speech.kth.se/wavesurfer/) - An open source tool for sound visualization and manipulation.
 
 ## Text-to-Speech (TTS)
 
@@ -377,12 +377,12 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 
 ## Experimentation
 
+* [experigen](https://github.com/tlozoot/experigen) - A framework for creating linguistic experiments.
+* [GamifyPsycholinguisticsExperiments](https://github.com/FieldDB/GamifyPsycholinguisticsExperiments) - A simple node server to gamify linguistics experiments, runs offline on a laptop for small scale experiements and online on a server for large scale experiments. Data is sent to a Google spreadsheet. (_Fork_ of a dormant project).
 * [OpenSesame](https://github.com/smathot/OpenSesame) - Graphical experiment builder for the social sciences.
 * [OPrime](https://github.com/FieldDB/OPrime) - Open Source Experimentation Libraries - Online and Offline for Android and HTML5.
 * [psychopyMegProsody](https://github.com/FieldDB/psychopyMegProsody) - Runs MegProsody using PsychoPy.
 * [PsychScript](https://github.com/EoinTravers/PsychScript) - A HTML5/Javascript library for running behavioural experiments online.
-* [GamifyPsycholinguisticsExperiments](https://github.com/FieldDB/GamifyPsycholinguisticsExperiments) - A simple node server to gamify linguistics experiments, runs offline on a laptop for small scale experiements and online on a server for large scale experiments. Data is sent to a Google spreadsheet. (_Fork_ of a dormant project).
-* [experigen](https://github.com/tlozoot/experigen) - A framework for creating linguistic experiments.
 
 ## Flashcards
 
@@ -466,7 +466,7 @@ _These are repositories that are generally only interesting for training purpose
 
 ## Corpora
 
-These corpora are useful for working with tools on endangered languages.
+These corpora are useful for working with tools on endangered languages. Monolingual corpora that are more for archival efforts should most likely not be included here.
 
 * [bible-corpus](https://github.com/christos-c/bible-corpus) - A multilingual parallel corpus created from translations of the Bible.
 * [Common Crawl — web-languages](https://github.com/commoncrawl/web-languages) - Crowd-sourced URL lists to steer the Common Crawl crawler toward under-resourced languages.
@@ -795,6 +795,7 @@ _sma :: Sámi/Saami_
 
 * [divvun-webdemo](https://github.com/divvun/divvun-webdemo) - simple webdemo for divvun grammar checker. [Website](https://gtweb.uit.no/gc/).
 * [Giellatekno](http://giellatekno.uit.no/) A host of Sámi tools.
+  - Mobile keyboards (iOS and Android), learning apps, dictionaries, morphologies, syntax disambiguators, some amount of project collaboration with Apertium on shallow translation between Saami languages, and
 * [Oahpa!](http://oahpa.no) - A learning portal for Saami languages. Includes WordPress based, media rich lesson-based learning, and morphological and syntactic exercizes generated from the morphological and syntactic tools
 * [Neahttadigisánit](https://sanit.oahpa.no/about/) - A morphologically sensitive dictionary, with modes for 'social media input' (which allows users to type a 'relaxed' version of the orthography (*acdnstz* will be recognized also as *áčđŋšŧz̄*), and also includes a JavaScript bookmarklet to offer click-to-read dictionary lookup functionality. Also available for [other Uralic, and non-Uralic languages](http://dicts.uit.no/index.eng.html).
 
