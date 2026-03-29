@@ -108,7 +108,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [brain](https://github.com/FieldDB/brain) - Neural networks in JavaScript.
 * [Bristol Uni MT Morphology tools](https://github.com/LowResourceLanguages/bristol-mt-morphology) - This repo is a mirror of scripts previously available on http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp. Included: Ukwabelana - An open-source morphological Zulu corpus and EMMA: A Novel Evaluation Metric for Morphological Analysis.
 * [brown-cluster](https://github.com/percyliang/brown-cluster) - C++ implementation of the Brown word clustering algorithm.
-* [CasualCon](https://sites.google.com/site/casualconc/Home) CasualConc is a concordance program that runs natively on Mac OS X 10.5 Leopard or later. It was originally designed for casual use (preliminary analysis or non-research purposes), though [the maintainer] has been using it for his own research (and may others have). It can generate kwic concordance lines, word clusters, collocation analysis, and word count.
+* CasualCon CasualConc is a concordance program that runs natively on Mac OS X 10.5 Leopard or later. It was originally designed for casual use (preliminary analysis or non-research purposes), though [the maintainer] has been using it for his own research (and may others have). It can generate kwic concordance lines, word clusters, collocation analysis, and word count. **[unrecoverable]** <!-- https://sites.google.com/site/casualconc/Home -->
 * [cdec](https://github.com/redpony/cdec) - Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms.
 * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
 * [chorus](https://github.com/sillsdev/chorus) - A version control system designed to enable workflows appropriate for typical language development teams who are geographically distributed.
@@ -130,12 +130,13 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [divvun-keyboard](https://github.com/divvun/divvun-keyboard) - keyboard apps for iOS and Android with keyboard layouts for indigenous and minority languages
 * [divvunspell](https://github.com/divvun/divvunspell) - `hfst-ospell` (below) rewritten in Rust, for robust concurrency and memory management. Is in practical use about 10x faster than `hfst-ospell`. It uses the same zhfst files as `hfst-ospell`, which are available for all languages in the [GiellaLT](https://github.com/giellalt/) GitHub org (see below).
 * [DLTK](https://github.com/alvations/DLTK) - Deutsch Language Tool Kit. [More](https://htmlpreview.github.io/?https://github.com/alvations/DLTK/blob/master/docs/index.html).
-* [epitran](https://github.com/dmort27/epitran) - Grapheme to Phoneme conversion (G2P) for many low-resource languages.
 * [ELDER: Endangered Language Data Electronic Repository](https://github.com/elderonline/ELDER) - Endangered Language Data Electronic Repository: A web-based ontologically-compliant collaborative linguistic data cataloguing tool.
+* [epitran](https://github.com/dmort27/epitran) - Grapheme to Phoneme conversion (G2P) for many low-resource languages.
 * [enchant](https://github.com/AbiWord/enchant) - enchant spellchecking library https://abiword.github.io/enchant/.
 * [exsite9](https://github.com/IntersectAustralia/exsite9) - ExSite9 is a desktop application that was built to facilitate researchers easily and quickly tagging their data files with descriptive metadata and subsequently packaging their data files and associated metadata ready for submission to a repository. ExSite9 also allows for the structural organisation of said files within actually moving their physical location on your local file storage; allowing you to correctly organise your files and metadata ready for packaging.
 * [fast_align](https://github.com/clab/fast_align) - Simple, fast unsupervised word aligner.
 * [fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
+* [Field Linguist's Toolbox](https://software.sil.org/toolbox/download/) - Toolbox is a data management and analysis tool for field linguists. It is especially useful for maintaining lexical data, and for parsing and interlinearizing text, but it can be used to manage virtually any kind of data.
 * [FieldWorks](https://github.com/sillsdev/FieldWorks) - FieldWorks is a suite of software tools for language and cultural data, with support for complex scripts. https://software.sil.org/fieldworks/ FieldWorks Language Explorer (or FLEx, for short) is designed to help field linguists perform many common language documentation and analysis tasks. It can help you: elicit and record lexical information, create dictionaries, interlinearize texts, analyze discourse features, study morphology.
 * [Franc](https://github.com/wooorm/franc) - Natural language detection https://wooorm.com/franc/.
 * [FwDocumentation](https://github.com/sillsdev/FwDocumentation) - Developer documentation for FieldWorks (software tools for language and cultural data, with support for complex scripts).
@@ -145,15 +146,15 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [giellakbd-android](https://github.com/divvun/giellakbd-android) - A fork of LatinIME (by Google for Android), targeting marginalised languages that also deserve first-class status on mobile operating systems. Used by [kbdgen](https://github.com/divvun/kbdgen) (see elsewhere on this page).
 * [giellakbd-ios](https://github.com/divvun/giellakbd-ios) - An open source reimplementation of Apple's native iOS keyboard with a specific focus on support for localised keyboards. Used by [kbdgen](https://github.com/divvun/kbdgen) (see elsewhere on this page).
 * [giza-pp](https://github.com/moses-smt/giza-pp) - GIZA++ is a statistical machine translation toolkit that is used to train IBM Models 1-5 and an HMM word alignment model. This package also contains the source for the mkcls tool which generates the word classes necessary for training some of the alignment models.
-* [gv-crawl](https://github.com/vchahun/gv-crawl) - Global Voices bitext crawler for creating parallel corpora.
 * [GlotLID](https://github.com/cisnlp/GlotLID) - Fasttext language identification with support for more than 2000 labels.
 * [Glottolog data](https://github.com/clld/glottolog-data) - [Glottolog](https://glottolog.org) provides comprehensive reference information for the world's languages.
 * [Gramadóir](https://github.com/kscanne/gramadoir) - Grammar checking engine that is designed for the rapid development of grammar checkers for minority languages and other languages with limited computational resources.
 * [grind](https://github.com/sillsdev/grind) - An InDesign 5.5 plug-in designed allow graphite enabled smart fonts to be used in Adobe InDesign. This project integrates SIL's Graphite 2 smart font technology with our own implementation of a paragraph composer plugin.
+* [gv-crawl](https://github.com/vchahun/gv-crawl) - Global Voices bitext crawler for creating parallel corpora.
 * [hermitcrab](https://github.com/sillsdev/hermitcrab) - HermitCrab.NET is a flexible morphological/phonological parser that takes an item-and-process approach.
+* [hfst-optimized-lookup](https://github.com/hfst/hfst-optimized-lookup) - HFST optimized-lookup standalone library and command line tool.
 * [hfst-ospell](https://github.com/hfst/hfst-ospell) - HFST spell checker library and command line tool.
 * [hfst-ospell-js](https://github.com/divvun/hfst-ospell-js) - Node bindings for hfst-ospell.
-* [hfst-optimized-lookup](https://github.com/hfst/hfst-optimized-lookup) - HFST optimized-lookup standalone library and command line tool.
 * [hundict](https://github.com/zseder/hundict) - bilingual dictionary extractor from parallel corpora.
 * [hunspell](https://github.com/hunspell/hunspell) - Spell checker and morphological analyzer library and program designed for languages with rich morphology and complex word compounding or character encoding.
 * [huntag](https://github.com/recski/HunTag) - a sequential tagger for NLP using Maximum Entropy Learning and Hidden Markov Models.
@@ -167,10 +168,10 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [koreksyon](https://github.com/reokatoa/koreksyon) - Tools for developing and implementing spell-checking and grammar-checking capabilities in low-resource languages.
 * [l20n.js](https://github.com/l20n/l20n.js) - L20n reinvents software localization. Users should be able to benefit from the entire expressive power of natural languages. L20n keeps simple things simple, and at the same time makes complex things possible. This is the JavaScript implementation of L20n. http://l20n.org.
 * [langid.py](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
-* [langtech](https://victorio.uit.no/langtech/trunk/) A host of resources provided in SVN by the University of Tromsø. Details are [here](http://giellatekno.uit.no) and in English [here](http://giellatekno.uit.no/index.eng.html).
+* langtech A host of resources provided in SVN by the University of Tromsø. Details are [here](http://giellatekno.uit.no) and in English [here](http://giellatekno.uit.no/index.eng.html). **[unrecoverable]** <!-- https://victorio.uit.no/langtech/trunk/ -->
 * [LEGO Unified Concepticon](https://github.com/jcgood/concepticon) - Material relating to the LEGO Unified Concepticon.
 * [Lex4All](https://github.com/lex4all/lex4all) - pronunciation LEXicons for Any Low-resource Language http://lex4all.github.io/lex4all/.
-* [lexdb](https://bitbucket.org/evoling/lexdb) - LexDB is a lexical cognate tracking database. It stores the full provenance of all lexemes and cognate judgements, and allows export into a number of nexus dialects. The database is written in the flexible python/django web framework.
+* [lexdb](https://web.archive.org/web/20160408102737/https://bitbucket.org/evoling/lexdb) - LexDB is a lexical cognate tracking database. It stores the full provenance of all lexemes and cognate judgements, and allows export into a number of nexus dialects. The database is written in the flexible python/django web framework. **[archived]**
 * [LfMerge](https://github.com/sillsdev/LfMerge) - Send/Receive for languageforge.org.
 * [liblevenshtein](https://github.com/universal-automata/liblevenshtein) - A library for generating Finite State Transducers based on Levenshtein Automata.
 * [libpalaso](https://github.com/sillsdev/libpalaso) - Palaso Library: A set of .Net libraries useful for developers of Language Software.
@@ -202,18 +203,18 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [nplm](https://github.com/moses-smt/nplm) - Fork of https://nlg.isi.edu/software/nplm/ with some efficiency tweaks and adaptation for use in mosesdecoder.
 * [octothorpe](https://github.com/FieldDB/octothorpe) - CouchDB-powered wiki thing.
 * [OdtXslt](https://github.com/sillsdev/OdtXslt) - Perform XSLT transform on contents of a package (such as ODT, Docx, etc.).
-* [old-webapp](https://github.com/jrwdunham/old-webapp) - Online Linguistic Database --- software for creating web applications to collaboratively document languages.http://www.onlinelinguisticdatabase.org.
 * [old](https://github.com/dativebase/old) - The Online Linguistic Database (OLD): software for linguistic fieldwork. http://www.onlinelinguisticdatabase.org.
 * [old-pyramid](https://github.com/dativebase/old-pyramid) - Online Linguistic Database migrated to the Pyramid framework.
+* [old-webapp](https://github.com/jrwdunham/old-webapp) - Online Linguistic Database --- software for creating web applications to collaboratively document languages.http://www.onlinelinguisticdatabase.org.
 * [OmegaT-hfst-tokenizer](https://github.com/divvun/OmegaT-hfst-tokenizer) - OmegaT-hfst-tokenizer provides fst-based tokenisation in OmegaT.
 * [OpenDataKit](https://opendatakit.org/software/) Open Data Kit (ODK) is an open-source suite of tools that helps organizations author, field, and manage mobile data collection solutions
 * [OpenNLP](https://github.com/apache/opennlp) - The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text. [Website](https://opennlp.apache.org).
 * [ops-devbox](https://github.com/sillsdev/ops-devbox) - Ansible playbook for a (linux) developer machine.
 * [panlex-tools](https://github.com/longnow/panlex-tools) - This package contains scripts to transform lexical resources into a format suitable for importing into PanLex. Documentation may be found at https://dev.panlex.org.
-* [pdsc-collection-viewer](https://github.com/marcolarosa/pdsc-collection-viewer) - Paradisec Collection Browser
 * [paradigm](https://github.com/sillsdev/paradigm) - PARADIGM is a .Net (C#) implementation of Joseph E. Grimes' 1983 work entitled "Affix Positions and Cooccurrences: The PARADIGM Program".
 * [pathway](https://github.com/sillsdev/pathway) - Preparing language data for publication.
 * [pdfdroplet](https://github.com/sillsdev/pdfdroplet) - Library and GUI for imposition of PDF pages (e.g. 2-up) http://software.sil.org/pdfdroplet/.
+* [pdsc-collection-viewer](https://github.com/marcolarosa/pdsc-collection-viewer) - Paradisec Collection Browser
 * [pepper](https://github.com/korpling/pepper) - Pepper is a pluggable, Java-based, open source converter framework for linguistic data.
 * [phonology-assistant](https://github.com/sillsdev/phonology-assistant) - Phonology Assistant is a discovery tool. Provided with a corpus of phonetic data, it automatically charts the sounds and through its searching capabilities, helps a user discover and test the rules of sound in a language.
 * [pressagio](https://github.com/cidles/pressagio) - Pressagio is a library that predicts text based on n-gram models. For example, you can send a string and the library will return the most likely word completions for the last token in the string.
@@ -246,7 +247,6 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [TexNLP](https://github.com/utcompling/texnlp) - TexNLP: Texas Natural Language Processing tools.
 * [TiMBL](https://languagemachines.github.io/timbl/) TiMBL is an open source software package implementing several memory-based learning algorithms, among which IB1-IG, an implementation of k-nearest neighbor classification with feature weighting suitable for symbolic feature spaces, and IGTree, a decision-tree approximation of IB1-IG. All implemented algorithms have in common that they store some representation of the training set explicitly in memory. During testing, new cases are classified by extrapolation from the most similar stored cases.
 * [Toney](https://github.com/langtech/toney) - Tone Classification Software.
-* [Field Linguist's Toolbox](https://software.sil.org/toolbox/download/) - Toolbox is a data management and analysis tool for field linguists. It is especially useful for maintaining lexical data, and for parsing and interlinearizing text, but it can be used to manage virtually any kind of data.
 * [Toolbox Scripts for ELAN](https://github.com/RichardLitt/toolbox-scripts) - Mirror of Alexander Koenig's Toolbox Scripts https://tla.mpi.nl/tools/tla-tools/elan/thirdparty/.
 * [ToolsForFieldLinguistics](https://github.com/cesine/ToolsForFieldLinguistics) - A collection of scripts and recipes for linguistics.
 * [transcriber](https://github.com/langtech/transcriber/tree/dev) - An HTML5 transcription tool for Aikuma
@@ -297,7 +297,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [poio-api](https://github.com/cidles/poio-api) - Poio API is a free and open source Python library to access and search data from language documentation in your linguistic analysis workflow. It converts file formats like Elan’s EAF, Toolbox files, Typecraft XML and others into annotation graphs as defined in ISO 24612. Those graphs, for which we use an implementation called “Graph Annotation F…
 * [pyannotation](https://github.com/cidles/pyannotation) - PyAnnotation is a Python Library to access and manipulate linguistically annotated corpus files.
 * [WebAnno](https://github.com/webanno/webanno) - Web-based annotation tool for a wide range of linguistic annotations including various layers of morphological, syntactical, and semantic annotations. Distributed under Apache 2.0.
-* [XTrans](https://www.ldc.upenn.edu/language-resources/tools/xtrans) Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics.
+* XTrans Trans is a next generation multi-platform, multilingual, multi-channel transcription tool that supports manual transcription and annotation of audio recordings. The XTrans toolkit provides new and efficient solutions to common transcription challenges and addresses critical gaps in existing tools.Designed with input from experienced human transcribers working with real world data, XTrans provides a flexible and intuitive graphical user interface for a multitude of speech annotation tasks including (virtual) segmentation of audio into smaller units like turns and sentences; speaker identification; orthographic transcription in any language; and labeling of structural elements of the transcript like topics. **[unrecoverable]** <!-- https://www.ldc.upenn.edu/language-resources/tools/xtrans -->
 
 ## Format Specifications
 
@@ -345,7 +345,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [prosodylab.alignertools](https://github.com/prosodylab/prosodylab.alignertools)
 * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications.
 * [Recordmp3js](https://github.com/FieldDB/Recordmp3js) - Record MP3 files directly from the browser using JS and HTML.
-* [Recordmp3js](https://github.com/nicklarosa/Recordmp3js) - Record MP3 files directly from the browser using JS and HTML (original project).
+* Recordmp3js - Record MP3 files directly from the browser using JS and HTML (original project). **[unrecoverable]** <!-- https://github.com/nicklarosa/Recordmp3js -->
 * [SoX](http://sox.sourceforge.net/) - SoX, the Swiss Army knife of sound processing programs.
 * [sphinx4](https://github.com/cmusphinx/sphinx4) - Pure Java speech recognition library.
 * [sphinxbase](https://github.com/cmusphinx/sphinxbase)
@@ -408,7 +408,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [AndroidLanguageLessons](https://github.com/FieldDB/AndroidLanguageLessons) - Lets heritage speakers create self designed language lessons.
 * [AndroidProductionExperiment](https://github.com/FieldDB/AndroidProductionExperiment) - Android App to run perception experiments.
 * [Bevara](https://github.com/KentonMurray/bevara) - Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages.
-* [ojoVoz](https://github.com/ojovoz/ojoVoz_mobile) - A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz/.
+* ojoVoz - A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz/. **[unrecoverable]** <!-- https://github.com/ojovoz/ojoVoz_mobile -->
 * [pocketsphinx-android](https://github.com/cmusphinx/pocketsphinx-android) - pocketsphinx build for Android.
 * [pocketsphinx-android-demo](https://github.com/cmusphinx/pocketsphinx-android-demo)
 
@@ -537,14 +537,14 @@ For each language, we include the [ISO 639-3 code](https://en.wikipedia.org/wiki
 
 _afr :: Afrikaans_
 
-* [Afrikaanse rekenaarlinguïstiek (Afrikaans computational linguistics)](http://xixona.dlsi.ua.es/~fran/afrikaans/index.old.html) — wordlists, corpora, morphological analyser, tagger, word decompounder. Available upon email.
+* [Afrikaanse rekenaarlinguïstiek (Afrikaans computational linguistics)](https://web.archive.org/web/20211025200827/http://xixona.dlsi.ua.es/~fran/afrikaans/index.old.html) — wordlists, corpora, morphological analyser, tagger, word decompounder. Available upon email. **[archived]**
 
 ### Albanian
 
 _sqi :: shqip_
 
 * [Apertium rules for Albanian](https://sourceforge.net/p/apertium/svn/41266/tree/incubator/apertium-mk-sq/) - Machine Translation rules
-* [out-of-copyright-albanian-authors](https://github.com/substack/out-of-copyright-albanian-authors) - authors scraped from the albanian language wikipedia who are out of copyright.
+* [out-of-copyright-albanian-authors](https://web.archive.org/web/20200910215835/https://github.com/substack/out-of-copyright-albanian-authors) - authors scraped from the albanian language wikipedia who are out of copyright. **[archived]**
 * [Plis keyboard](http://plisi.org/tastiera/) - The Plis keyboard is a keyboard or computer keyboard layout for the Albanian language.
 * [spell checking](http://www.shkenca.org/k6i/index.html) - Here you find a collection of Albanian words and information about them. Aspell, Ispell, and MySpell are included.
 
@@ -596,7 +596,7 @@ _glg :: galego_
 * [DOGA_scraper](https://github.com/jjelosua/DOGA_scraper) - Galician Official journal scraper
 * [elFinder-language](https://github.com/Rubarez/elFinder-Language) - Galician - Gallego / language for elFinder
 * [EuroWordNetLemon](https://github.com/martavillegas/EuroWordNetLemon) - EuroWordNet lemon lexicons generated from the LMF versions of the Multilingual Central Repository (MCR) EuroWordNet lexicons. It includes lexicons for Spanish, Catalan, Basque & Galician.
-* [GalegoDroid](https://github.com/amsqr/GalegoDroid) - Galician Translator for Android
+* [GalegoDroid](https://web.archive.org/web/20180610234243/https://github.com/amsqr/GalegoDroid) - Galician Translator for Android **[archived]**
 * [galeXtra](https://github.com/gamallo/galeXtra) - Multiword Extractor for Portuguese, English, Spanish, Galician, French
 * [Galician-Dependency-Treebank](https://github.com/paulomalvar/Galician-Dependency-Treebank) - This Galician Dependency Treebank has been developed by transliterating and adapting lexically the Portuguese part (Bosque 7.3 by the Floresta sintá(c)tica project) of the CONLL-X 2006.
 * [Galician-Fuzzy-Text-watch](https://github.com/pfsq/Galician-Fuzzy-Text-watch) - Based on Fuzzy Text International by Jesse Hallett, uses the galician language to display time.
@@ -660,7 +660,7 @@ _kat :: Kartuli / ქართული_
 * [dimakura/ka.js](https://github.com/dimakura/ka.js) - Georgian language support for node and browser (JavaScript).
 * [akalongman/kautilities](https://github.com/akalongman/kautilities) - Convert Georgian letters to Latin and vice-versa (PHP).
 * [Landish/Laravel-Ka](https://github.com/Landish/Laravel-KA) - [Laravel](https://laravel.com/) Georgian Language Pack.
-* [Landish/RedactorJS-GE](https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
+* [Landish/RedactorJS-GE](https://web.archive.org/web/20230101042541/https://github.com/Landish/RedactorJS-GE) - Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript). **[archived]**
 * [moment/moment](https://github.com/moment/moment) - A lightweight date library (JavaScript).
 * [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
 * [ioseb/geokbd](https://github.com/ioseb/geokbd) - Georgian keyboard library (JavaScript).
@@ -687,7 +687,7 @@ _hin :: Hindi / हिन्दी_
 
 _nno :: Høgnorsk_
 
-* [hunspell-hn_NO](https://github.com/rtxanson/hunspell-hn_NO) - A beginning to a spellchecking tool for Høgnorsk, a conservative variant of Norwegian Nynorsk, based on a set of corpuses.
+* hunspell-hn_NO - A beginning to a spellchecking tool for Høgnorsk, a conservative variant of Norwegian Nynorsk, based on a set of corpuses. **[unrecoverable]** <!-- https://github.com/rtxanson/hunspell-hn_NO -->
 
 ### Icelandic
 
@@ -826,7 +826,7 @@ _shs :: Secwepemctsín_
 _som :: Soomaaliga_
 
 * [qaamuus.net](http://qaamuus.net/) morphologically aware dictionary based on lexical resources found online, and the somali morphology.
-* [somorph](https://github.com/rtxanson/somorph) - Somali morphological and syntactic analyzers and generators built on XFST and VISL-CG Constraint Grammar. Up to date version checked in on [Giellatekno's](http://giellatekno.uit.no) repository.
+* somorph - Somali morphological and syntactic analyzers and generators built on XFST and VISL-CG Constraint Grammar. Up to date version checked in on [Giellatekno's](http://giellatekno.uit.no) repository. **[unrecoverable]** <!-- https://github.com/rtxanson/somorph -->
 
 ### Tigrinya
 
@@ -848,7 +848,8 @@ _zul :: Zulu_
 
 > **[archived]** = link replaced with archived copy via [Wayback Machine](https://web.archive.org) ·
 > **[superseded]** = superseded by a newer resource ·
-> **[historical]** = historical reference, no longer actively maintained
+> **[historical]** = historical reference, no longer actively maintained ·
+> **[unrecoverable]** = link no longer available, kept for reference
 
 ## License
 
