@@ -408,7 +408,7 @@ Looking for resources for code languages? Take a look at [the awesome lists coll
 * [AndroidLanguageLessons](https://github.com/FieldDB/AndroidLanguageLessons) - Lets heritage speakers create self designed language lessons.
 * [AndroidProductionExperiment](https://github.com/FieldDB/AndroidProductionExperiment) - Android App to run perception experiments.
 * [Bevara](https://github.com/KentonMurray/bevara) - Android Phone Application designed for Linguistic Fieldwork to help preserve, maintain, and save endangered languages.
-* ojoVoz - A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. For more information, please go to http://sautiyawakulima.net/ojovoz/. **[unrecoverable]** <!-- https://github.com/ojovoz/ojoVoz_mobile -->
+* [ojoVoz](http://sautiyawakulima.net/ojovoz/) - A mobile app for sending georeferenced image and voice recordings from an Adroid phone to an email address. <!-- used to exist on https://github.com/ojovoz/ojoVoz_mobile -->
 * [pocketsphinx-android](https://github.com/cmusphinx/pocketsphinx-android) - pocketsphinx build for Android.
 * [pocketsphinx-android-demo](https://github.com/cmusphinx/pocketsphinx-android-demo)
 
