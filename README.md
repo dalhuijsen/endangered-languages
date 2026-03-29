@@ -847,8 +847,6 @@ _zul :: Zulu_
 * [Ukwabelana](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus) An open-source morphological Zulu corpus
 
 > **[archived]** = link replaced with archived copy via [Wayback Machine](https://web.archive.org) ·
-> **[superseded]** = superseded by a newer resource ·
-> **[historical]** = historical reference, no longer actively maintained ·
 > **[unrecoverable]** = link no longer available, kept for reference
 
 ## License
